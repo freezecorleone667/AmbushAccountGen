@@ -1,14 +1,14 @@
 {
-    "catchAll": "",
-    "firstName": "",
-    "lastName": "",
-    "password": "",
-    "addressLine1": "",
-    "addressLine2": "",
+    "catchAll": "catchall.victor@gmail.com",
+    "firstName": "victor",
+    "lastName": "boulaire",
+    "password": "catchall76!",
+    "addressLine1": "241 rue de la croix nivert",
+    "addressLine2": "digicode 1601B",
     "addressLine3": "",
-    "city": "",
-    "country": Get your country code from the README.md list,
+    "city": "Paris",
+    "country":"70"
     "state": "",
-    "zipCode": "",
-    "phone": ""
+    "zipCode": "75015",
+    "phone": "0782768962"
 }
