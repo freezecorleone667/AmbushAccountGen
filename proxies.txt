@@ -1,0 +1,10 @@
+customer-mr1344wU:GXohgbR:188.40.20.101:40001
+customer-mr1344wU:GXohgbR:188.40.20.101:40002
+customer-mr1344wU:GXohgbR:188.40.20.101:40003
+customer-mr1344wU:GXohgbR:188.40.20.101:40004
+customer-mr1344wU:GXohgbR:188.40.20.101:40005
+customer-mr1344wU:GXohgbR:188.40.20.101:40006
+customer-mr1344wU:GXohgbR:188.40.20.101:40007
+customer-mr1344wU:GXohgbR:188.40.20.101:40008
+customer-mr1344wU:GXohgbR:188.40.20.101:40009
+customer-mr1344wU:GXohgbR:188.40.20.101:40010
